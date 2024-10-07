@@ -8,7 +8,7 @@
 
 ### Tools used
 
-- Ms excel [Download here](htpps://www.microsoft.com)
+- Ms excel [Download here](https://www.microsoft.com)
 
 
 ``` SQL
